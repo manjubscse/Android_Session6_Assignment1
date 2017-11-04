@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.android.manjubs.uilginmsgtest.ExampleUnitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-08-22T15:40:33" hostname="JAL-PC" time="0.018">
+  <properties/>
+  <testcase name="email_isCorrect" classname="com.android.manjubs.uilginmsgtest.ExampleUnitTest" time="0.01"/>
+  <testcase name="password_isCorrect" classname="com.android.manjubs.uilginmsgtest.ExampleUnitTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
